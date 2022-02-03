@@ -10,6 +10,7 @@
     "serve": "next start",
     "export": "next export",
     "postbuild": "next-sitemap"
+    "node": "16.13"
   },
   "dependencies": {
     "dotenv": "^8.2.0",
