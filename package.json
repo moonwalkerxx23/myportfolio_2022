@@ -12,8 +12,6 @@
     "postbuild": "next-sitemap",
      "engines": {
     "node": "16.13"
-  }
-    
   },
   "dependencies": {
     "dotenv": "^8.2.0",
